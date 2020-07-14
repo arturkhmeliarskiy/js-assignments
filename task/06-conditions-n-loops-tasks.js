@@ -91,7 +91,7 @@ function getSumBetweenNumbers(n1, n2) {
  *   10,10,10 =>  true
  */
 function isTriangle(a,b,c) {
-    return a < b + c && b < a + c && c < a + b;;
+    return a < b + c && b < a + c && c < a + b;
 }
 
 
