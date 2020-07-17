@@ -35,6 +35,7 @@ function getRegexForGuid() {
 }
 
 
+
 /**
  * Returns the regexp that matches all the strings from first column
  * but of them from the second
