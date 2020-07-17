@@ -223,7 +223,7 @@ function isPrime(n) {
 function toNumber(value, def) {
     throw new Error('Not implemented');
 }
-
+ 
 module.exports = {
     getRectangleArea: getRectangleArea,
     getCicleCircumference: getCicleCircumference,
