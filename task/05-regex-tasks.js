@@ -119,7 +119,7 @@ function getPasswordValidator(minLength) {
    throw new Error('Not implemented');
 }
 
-
+ 
 module.exports = {
     getRegexForGuid: getRegexForGuid,
     getRegexForPitSpot: getRegexForPitSpot,
