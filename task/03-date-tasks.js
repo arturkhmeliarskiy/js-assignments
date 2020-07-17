@@ -96,7 +96,7 @@ function timeSpanToString(startDate, endDate) {
 function angleBetweenClockHands(date) {
     throw new Error('Not implemented');
 }
-
+ 
 
 module.exports = {
     parseDataFromRfc2822: parseDataFromRfc2822,
