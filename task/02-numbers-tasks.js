@@ -238,3 +238,4 @@ module.exports = {
     isPrime: isPrime,
     toNumber: toNumber
 };
+ 
