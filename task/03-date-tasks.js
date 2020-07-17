@@ -58,7 +58,7 @@ function parseDataFromIso8601(value) {
 function isLeapYear(date) {
    throw new Error('Not implemented');
 }
-
+ 
 
 /**
  * Returns the string represention of the timespan between two dates.
