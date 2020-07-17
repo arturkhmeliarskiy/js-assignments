@@ -118,7 +118,7 @@ function removeFalsyValues(arr) {
 function getUpperCaseStrings(arr) {
    throw new Error('Not implemented');
 }
-
+ 
 
 /**
  * Returns the array of string lengths from the specified string array.
